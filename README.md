@@ -2,16 +2,46 @@
 A vehicle project for learning how to create a modern, responsive web application.
 
 ## Section One: Introduction
+### Principles
++ Unit testing
++ Functional concepts
++ DRY
++ The Boy Scout Principle (!)
++ Naming
+
 ### Project Overview
-What we want to learn?
-what do we want the project to be able to do?
 How to structure the flow of lessons?  For one, must jump between client and server.
+Early emphasis will be on the front end, just so we aren't throwing everything at you all at once :-)
+
+#### Structure Ideas
+1. Start with html, then css, then javascript
+2. Python3 all throughout
+3. json and xml
+
+#### Functionality ideas
++ Login/authorization (custom, later use oauth providers)
++ Roles (mainly admin for various types of content)
++ Embed, interact with Google Calendar.
++ Campout page
+  - maps
+  - signups
+  - patrol duty rosters
+  - track waivers
++ my.scouting.org training info
++ Patrol Corner
+  - Roster, list of assigned position of responsibilities
++ Photos
++ Documents, reference
++ Contact Us page
++ Site search
++ Join the pack/troop
+
 
 ### ~~Terminology section?~~
 nah, they can learn as we go
 
 ### Environment setup
-TODO: Have everyone use Ubuntu/VM or let them wallow around in Windows?
+They can choose between Ubuntu/VM or they can figure out the Windows bits on their own
 Python 3.6, pip, virtualenv
 Django, React, database, ...
 
