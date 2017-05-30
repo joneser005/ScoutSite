@@ -1,5 +1,5 @@
 # ScoutSite
-A vehicle project for learning how to create a modern, responsive web application.
+A vehicle project for learning how to create a modern, responsive web application.  The goal, should the planets align, is to use this site to teach a few interested scouts and maybe some of their friends how to build some subset of the features listed below (or entirely different ones) using languages, libraries, and technologies I find relevant and interesting.
 
 ## Section One: Introduction
 ### Principles
@@ -12,11 +12,6 @@ A vehicle project for learning how to create a modern, responsive web applicatio
 ### Project Overview
 How to structure the flow of lessons?  For one, must jump between client and server.
 Early emphasis will be on the front end, just so we aren't throwing everything at you all at once :-)
-
-#### Structure Ideas
-1. Start with html, then css, then javascript
-2. Python3 all throughout
-3. json and xml
 
 #### Functionality ideas
 + Login/authorization (custom, later use oauth providers)
